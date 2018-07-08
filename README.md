@@ -1,4 +1,4 @@
-#Python/Django Project
+# Python/Django Project
 
 This application was built based on django tutorial from https://docs.djangoproject.com/en/2.0/intro/.
 
